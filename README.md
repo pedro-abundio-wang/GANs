@@ -2,16 +2,16 @@
 
 * [Papers](#papers)
 * [Open-Source-Implements](#Open-Source-Implements)
-* [Attacking NNs with Adversarial Examples](#Attacking NNs with Adversarial Examples)
-  * [Attacking a network with adversarial examples](#Attacking a network with adversarial examples)
-  * [Defense against adversarial examples](#Defense against adversarial examples)
-  * [Why are neural networks vulnerable to adversarial examples?](#Why are neural networks vulnerable to adversarial examples?)
-* [Generative Adversarial Networks](#Generative Adversarial Networks)
+* [Attacking NNs with Adversarial Examples](#Attacking-NNs-with-Adversarial-Examples)
+  * [Attacking a network with adversarial examples](#Attacking-a-network-with-adversarial-examples)
+  * [Defense against adversarial examples](#Defense-against-adversarial-examples)
+  * [Why are neural networks vulnerable to adversarial examples?](#Why-are-neural-networks-vulnerable-to-adversarial-examples?)
+* [Generative Adversarial Networks](#Generative-Adversarial-Networks)
   * [Motivation](#Motivation)
-  * [G/D Game](#G/D Game)
-  * [Training GANs](#Training GANs)
-  * [In terms of code](In terms of code)
-  * [Nice results](#Nice results)
+  * [G/D Game](#G/D-Game)
+  * [Training GANs](#Training-GANs)
+  * [In terms of code](In-terms-of-code)
+  * [Nice results](#Nice-results)
 
 ## Papers
 
