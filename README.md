@@ -1,6 +1,3 @@
-* TOC
-{:toc}
-
 ## Paper
 
 Szegedy et al. (2013): Intriguing properties of neural networks
@@ -82,8 +79,6 @@ Fast Gradient Sign Method
 ![](Images/4-14.png)
 
 ### G/D Game
-
-![](Images/4-15.png)
 
 ![](Images/4-16.png)
 
