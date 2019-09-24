@@ -1,8 +1,11 @@
+* TOC
+{:toc}
+
 ## Paper
 
 Szegedy et al. (2013): Intriguing properties of neural networks
 
-Goodfellow et al. (2014): Generative Adversarial Nets 
+Goodfellow et al. (2014): Generative Adversarial Nets
 
 Mirza et al. (2014): Conditional Generative Adversarial Nets
 
