@@ -1,7 +1,19 @@
-* TOC
-{:toc}
+# Generative Adversarial Nets
 
-## Paper
+* [Papers](#papers)
+* [Open-Source-Implements](#Open-Source-Implements)
+* [Attacking NNs with Adversarial Examples](#Attacking NNs with Adversarial Examples)
+  * [Attacking a network with adversarial examples](#Attacking a network with adversarial examples)
+  * [Defense against adversarial examples](#Defense against adversarial examples)
+  * [Why are neural networks vulnerable to adversarial examples?](#Why are neural networks vulnerable to adversarial examples?)
+* [Generative Adversarial Networks](#Generative Adversarial Networks)
+  * [Motivation](#Motivation)
+  * [G/D Game](#G/D Game)
+  * [Training GANs](#Training GANs)
+  * [In terms of code](In terms of code)
+  * [Nice results](#Nice results)
+
+## Papers
 
 Szegedy et al. (2013): Intriguing properties of neural networks
 
@@ -45,9 +57,11 @@ Shu Naritomi et al.: Face2Ramen
 
 Takuya Tako: Face2Ramen using CycleGAN
 
-## Open-Source
+## Open-Source-Implements
 
-Github: eriklindernoren/Keras-GAN
+[Github: eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+
+[Github: eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 
 ## Attacking NNs with Adversarial Examples
 
