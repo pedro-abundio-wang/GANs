@@ -1,33 +1,40 @@
 # Generative Adversarial Nets
 
 * [Papers](#papers)
-* [Open-Source-Implements](#Open-Source-Implements)
-* [Attacking NNs with Adversarial Examples](#Attacking-NNs-with-Adversarial-Examples)
-  * [Attacking a network with adversarial examples](#Attacking-a-network-with-adversarial-examples)
-  * [Defense against adversarial examples](#Defense-against-adversarial-examples)
-  * [Why are neural networks vulnerable to adversarial examples?](#Why-are-neural-networks-vulnerable-to-adversarial-examples?)
-* [Generative Adversarial Networks](#Generative-Adversarial-Networks)
-  * [Motivation](#Motivation)
-  * [G/D Game](#G/D-Game)
-  * [Training GANs](#Training-GANs)
-  * [In terms of code](In-terms-of-code)
-  * [Nice results](#Nice-results)
+* [Readings](#readings)
+
 
 ## Papers
 
+Generative Adversarial Nets (Goodfellow et al. 2014)
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford et al. 2015)
+
+Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017)
+
+Improved Training of Wasserstein GANs (Gulrajani et al., 2017)
+
+Conditional Generative Adversarial Nets (Mirza et al. 2014)
+
+Spectral Normalization for Generative Adversarial Networks
+
+Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020)
+
+Hyperspherical Variational Auto-Encoders (Davidson, Falorsi, De Cao, Kipf, and Tomczak, 2018)
+
+Analyzing and Improving the Image Quality of StyleGAN (Karras et al., 2020)
+
+Semantic Image Synthesis with Spatially-Adaptive Normalization (Park, Liu, Wang, and Zhu, 2019)
+
+Few-shot Adversarial Learning of Realistic Neural Talking Head Models (Zakharov, Shysheya, Burkov, and Lempitsky, 2019)
+
+Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (Wu, Zhang, Xue, Freeman, and Tenenbaum, 2017)
+
+Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donahue, and Simonyan, 2019)
+
 Szegedy et al. (2013): Intriguing properties of neural networks
 
-Goodfellow et al. (2014): Generative Adversarial Nets
-
-Mirza et al. (2014): Conditional Generative Adversarial Nets
-
 Goodfellow et al. (2015): Explaining and harnessing adversarial examples
-
-Radford et al. (2015): Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
-
-Ian Goodfellow (2016): NIPS 2016 Tutorial: Generative Adversarial Networks
-
-Soumith et al. (2016): GanHacks [https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)
 
 Salimans et al. (2016): Improved Techniques for Training GANs
 
@@ -57,94 +64,12 @@ Shu Naritomi et al.: Face2Ramen
 
 Takuya Tako: Face2Ramen using CycleGAN
 
-## Open-Source-Implements
+Odena, et al., "Deconvolution and Checkerboard Artifacts", Distill, 2016. http://doi.org/10.23915/distill.00003
 
-[Github: eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+## Readings
 
-[Github: eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+Ian Goodfellow (2016): NIPS 2016 Tutorial: Generative Adversarial Networks
 
-## Attacking NNs with Adversarial Examples
+From GAN to WGAN (Weng, 2017): https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 
-### Attacking a network with adversarial examples
-
-![](Images/4-04.png)
-
-![](Images/4-05.png)
-
-![](Images/4-06.png)
-
-![](Images/4-07.png)
-
-![](Images/4-08.png)
-
-### Defense against adversarial examples
-
-![](Images/4-10.png)
-
-### Why are neural networks vulnerable to adversarial examples?
-
-Fast Gradient Sign Method
-
-![](Images/4-12.png)
-
-## Generative Adversarial Networks
-
-### Motivation
-
-![](Images/4-13.png)
-
-![](Images/4-14.png)
-
-### G/D Game
-
-![](Images/4-16.png)
-
-![](Images/4-17.png)
-
-![](Images/4-18.png)
-
-![](Images/4-19.png)
-
-### Training GANs
-
-![](Images/4-21.png)
-
-![](Images/4-22.png)
-
-![](Images/4-23.png)
-
-![](Images/4-24.png)
-
-![](Images/4-25.png)
-
-### In terms of code
-
-![](Images/4-27.png)
-
-![](Images/4-28.png)
-
-![](Images/4-29.png)
-
-### Nice results
-
-![](Images/4-31.png)
-
-![](Images/4-32.png)
-
-![](Images/4-33.png)
-
-![](Images/4-34.png)
-
-![](Images/4-35.png)
-
-![](Images/4-36.png)
-
-![](Images/4-37.png)
-
-![](Images/4-38.png)
-
-![](Images/4-39.png)
-
-![](Images/4-40.png)
-
-![](Images/4-43.png)
+Soumith et al. (2016): GanHacks [https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)
