@@ -64,11 +64,11 @@ Shu Naritomi et al.: Face2Ramen
 
 Takuya Tako: Face2Ramen using CycleGAN
 
-Odena, et al., "Deconvolution and Checkerboard Artifacts", Distill, 2016. http://doi.org/10.23915/distill.00003
-
 ## Readings
 
 Ian Goodfellow (2016): NIPS 2016 Tutorial: Generative Adversarial Networks
+
+Odena, et al., "Deconvolution and Checkerboard Artifacts", Distill, 2016. http://doi.org/10.23915/distill.00003
 
 From GAN to WGAN (Weng, 2017): https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 
