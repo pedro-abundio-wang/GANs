@@ -4,13 +4,15 @@
 
 Generative Adversarial Networks: https://arxiv.org/abs/1406.2661
 
-NIPS 2016 Tutorial: Generative Adversarial Networks
+Generative Adversarial Networks (NIPS 2016 Tutorial)
 
 Salimans et al. (2016): Improved Techniques for Training GANs
 
 Spectral Normalization for Generative Adversarial Networks
 
-### CGANs
+Kurach et al. (2018): Are GANs Created Equal? A Large-Scale Study
+
+### DCGANs
 
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford, Metz, and Chintala, 2016): https://arxiv.org/abs/1511.06434
 
@@ -36,7 +38,7 @@ Progressive Growing of GANs for Improved Quality, Stability, and Variation (Karr
 
 Analyzing and Improving the Image Quality of StyleGAN (Karras et al., 2020)
 
-GAN — StyleGAN & StyleGAN2 (Hui, 2020): https://medium.com/@jonathan_hui/gan-stylegan-stylegan2-479bdf256299
+GAN - StyleGAN & StyleGAN2 (Hui, 2020): https://medium.com/@jonathan_hui/gan-stylegan-stylegan2-479bdf256299
 
 StyleGAN - Official TensorFlow Implementation (Karras et al., 2019): https://github.com/NVlabs/stylegan
 
@@ -47,6 +49,14 @@ StyleGAN Faces Training (Branwen, 2019): https://www.gwern.net/images/gan/2019-0
 Zhang et al. (2017): StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 
 Zhang et al. (2017): StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks
+
+### CycleGAN
+
+Zhu et al. (2017): Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+Shu Naritomi et al.: Face2Ramen
+
+Takuya Tako: Face2Ramen using CycleGAN
 
 ### GANs Evalutions
 
@@ -74,11 +84,15 @@ Yuan et al. (2017): Adversarial Examples: Attacks and Defenses for Deep Learning
 
 Lu et al. (2017): SafetyNet: Detecting and Rejecting Adversarial Examples Robustly
 
+Harini Kannan et al. (2018): Adversarial Logit Pairing
+
+### VAE
+
+Hyperspherical Variational Auto-Encoders (Davidson, Falorsi, De Cao, Kipf, and Tomczak, 2018)
+
 ### 
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020)
-
-Hyperspherical Variational Auto-Encoders (Davidson, Falorsi, De Cao, Kipf, and Tomczak, 2018)
 
 Semantic Image Synthesis with Spatially-Adaptive Normalization (Park, Liu, Wang, and Zhu, 2019)
 
@@ -91,16 +105,6 @@ Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donah
 Isola et al. (2016): Image-to-Image Translation with Conditional Adversarial Networks
 
 Ledig et al. (2016): Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-
-Zhu et al. (2017): Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
-
-Harini Kannan et al. (2018): Adversarial Logit Pairing
-
-Kurach et al. (2018): Are GANs Created Equal? A Large-Scale Study
-
-Shu Naritomi et al.: Face2Ramen
-
-Takuya Tako: Face2Ramen using CycleGAN
 
 ## Readings
 
