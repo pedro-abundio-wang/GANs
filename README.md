@@ -12,6 +12,8 @@ Spectral Normalization for Generative Adversarial Networks
 
 Kurach et al. (2018): Are GANs Created Equal? A Large-Scale Study
 
+Soumith et al. (2016): GanHacks [https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)
+
 ### DCGANs
 
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford, Metz, and Chintala, 2016): https://arxiv.org/abs/1511.06434
@@ -29,6 +31,12 @@ From GAN to WGAN (Weng, 2017): https://lilianweng.github.io/lil-log/2017/08/20/f
 ### Conditional GANs
 
 Conditional Generative Adversarial Nets (Mirza et al. 2014)
+
+Isola et al. (2016): Image-to-Image Translation with Conditional Adversarial Networks
+
+### SRGAN
+
+Ledig et al. (2016): Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 
 ### Style GANs
 
@@ -90,7 +98,7 @@ Harini Kannan et al. (2018): Adversarial Logit Pairing
 
 Hyperspherical Variational Auto-Encoders (Davidson, Falorsi, De Cao, Kipf, and Tomczak, 2018)
 
-### 
+### Latent Space
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020)
 
@@ -102,13 +110,7 @@ Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversa
 
 Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donahue, and Simonyan, 2019): https://arxiv.org/abs/1809.11096
 
-Isola et al. (2016): Image-to-Image Translation with Conditional Adversarial Networks
-
-Ledig et al. (2016): Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-
 ## Readings
-
-Soumith et al. (2016): GanHacks [https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)
 
 Review: Inception-v3 — 1st Runner Up (Image Classification) in ILSVRC 2015 (Tsang, 2018): https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c
 
